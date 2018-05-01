@@ -1,5 +1,7 @@
 node_modules
 bower_components
+docs/vendor
+docs/package-lock.json
 
 # https://github.com/github/gitignore/
 *.DS_Store
